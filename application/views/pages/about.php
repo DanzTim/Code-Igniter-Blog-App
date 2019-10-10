@@ -1,0 +1,1 @@
+<p>This is CIBlog version 1.0</p>
